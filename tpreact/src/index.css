@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/*
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}*/
+thead, tbody, th, tr, td{
+    border: 1px solid #1E1E1E;
+}
